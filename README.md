@@ -10,3 +10,17 @@ build batch -> process ->|pad
                                          | postprocess
                                          | tensor()
 '''
+```
+neusum
+├── code
+│   └── NeuSum
+│       └── neusum_pt
+│           ├── neusum
+│           └── PyRouge
+└── data
+    └── cnndm
+        ├── dev
+        ├── glove
+        ├── models
+        └── train
+```
